@@ -1,0 +1,650 @@
+/* screen - 4-kontakt */
+
+.x4-kontakt {
+  align-items: center;
+  background-image: url(../img/1-esileht.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  gap: 10px;
+  height: 1379px;
+  justify-content: center;
+  min-width: 1440px;
+  padding: 12px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.x4-kontakt .x1920w-light {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 1389px;
+  justify-content: center;
+  margin-bottom: -17.00px;
+  margin-top: -17.00px;
+  overflow: scroll;
+  padding: 0px 326px;
+  position: relative;
+  width: 1440px;
+}
+
+.x4-kontakt .background-shadow {
+  align-items: center;
+  background-color: var(--wafeewhite);
+  box-shadow: 0px 2px 6px #6464644c;
+  display: flex;
+  flex-direction: column;
+  height: 1308px;
+  justify-content: center;
+  max-width: 1268px;
+  overflow: hidden;
+  padding: 498.03px 0px;
+  position: relative;
+  width: 1268px;
+}
+
+.x4-kontakt .header {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 1077px;
+  justify-content: center;
+  margin-bottom: -256.03px;
+  margin-top: -509.03px;
+  padding: 6px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.x4-kontakt .background-horizontal-border {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--desert-storm);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--wafeemercury);
+  display: flex;
+  flex-direction: column;
+  height: 36px;
+  justify-content: center;
+  padding: 0px 25px 1px;
+  position: relative;
+  width: 100%;
+}
+
+.x4-kontakt .container {
+  align-items: center;
+  display: flex;
+  gap: 498.03px;
+  height: 25.5px;
+  max-width: 1218px;
+  position: relative;
+  width: 1218px;
+}
+
+.x4-kontakt .list {
+  align-items: flex-start;
+  display: flex;
+  justify-content: center;
+  margin-bottom: -2.25px;
+  margin-top: -2.25px;
+  padding: 0px 7.11e-15px 0px 0px;
+  position: relative;
+  width: 61px;
+}
+
+.x4-kontakt .item {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  padding: 5px 15px 6px 0px;
+  position: relative;
+}
+
+.x4-kontakt .component-2 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.x4-kontakt .container-1 {
+  align-items: flex-start;
+  background-color: var(--wafeewhite);
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.x4-kontakt .component-1 {
+  height: 18px;
+  position: relative;
+  width: 15.44px;
+}
+
+.x4-kontakt .item-1 {
+  cursor: pointer;
+  display: flex;
+  height: 24px;
+  margin-left: -3.55e-15px;
+  padding: 5px 15px 6px 0px;
+  width: 22px;
+}
+
+.x4-kontakt .container-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.x4-kontakt .horizontal-border {
+  align-items: center;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--wafeemercury);
+  display: flex;
+  flex-direction: column;
+  height: 207px;
+  padding: 0px 0px 1px;
+  position: relative;
+  width: 100%;
+}
+
+.x4-kontakt .container-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 140px;
+  max-width: 1218px;
+  position: relative;
+  width: 1218px;
+}
+
+.x4-kontakt .container-4 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -10.00px;
+  max-width: 1193px;
+  padding: 0px 481.5px 0px 461.5px;
+  position: relative;
+  width: 100%;
+}
+
+.x4-kontakt .mask-group {
+  height: 150px;
+  margin-left: -25.00px;
+  margin-right: -25.00px;
+  position: relative;
+  width: 300px;
+}
+
+.x4-kontakt .container-5 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  height: 54px;
+  padding: 0px 25px;
+  position: relative;
+  width: 100%;
+}
+
+.x4-kontakt .container-6 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -2.00px;
+  max-width: 1218px;
+  padding: 20px 0px 0px;
+  position: relative;
+  width: 1218px;
+}
+
+.x4-kontakt .group-1 {
+  align-self: stretch;
+  height: 36px;
+  position: relative;
+  width: 100%;
+}
+
+.x4-kontakt .navigation-list {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  height: 36px;
+  justify-content: center;
+  position: relative;
+  width: 1218px;
+}
+
+.x4-kontakt .component {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  height: 26px;
+  padding: 0px 0px 20px;
+  position: relative;
+}
+
+.x4-kontakt .component-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -18.00px;
+  position: relative;
+  width: 100%;
+}
+
+.x4-kontakt .itempetajad {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 22px;
+  padding: 0px 0px 0px 25px;
+  position: relative;
+}
+
+.x4-kontakt .component-4-1 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  height: 22px;
+  padding: 0px 0px 20px;
+  position: relative;
+}
+
+.x4-kontakt .component-3-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -22.00px;
+  position: relative;
+  width: 100%;
+}
+
+.x4-kontakt .item-registreerimise-vormile {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 26px;
+  padding: 0px 0px 0px 25px;
+  position: relative;
+  width: 189px;
+}
+
+.x4-kontakt .section {
+  align-items: center;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--wafeemercury);
+  display: flex;
+  height: 511px;
+  justify-content: center;
+  padding: 10px 0px 1px;
+  position: relative;
+  width: 1268px;
+}
+
+.x4-kontakt .container-7 {
+  height: 468px;
+  position: relative;
+  width: 1268px;
+}
+
+.x4-kontakt .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  left: 126px;
+  min-height: 277px;
+  position: absolute;
+  top: 0;
+  width: 243px;
+}
+
+.x4-kontakt .horizontal-border-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 131px;
+  min-width: 243px;
+}
+
+.x4-kontakt .hleprlid-laulustuudio-vru-linnas {
+  color: var(--wafeedove-gray);
+  font-weight: 400;
+  height: 105px;
+  line-height: 32px;
+  margin-bottom: -6px;
+  width: 289px;
+}
+
+.x4-kontakt .lembitu-2-a-vru-linn {
+  color: transparent;
+  font-weight: 400;
+  height: 135px;
+  line-height: 18px;
+  width: 203px;
+}
+
+.x4-kontakt .span0 {
+  color: var(--wafeedove-gray);
+  text-decoration: underline;
+}
+
+.x4-kontakt .span {
+  color: #999999;
+}
+
+.x4-kontakt .span2 {
+  color: var(--wafeedove-gray);
+}
+
+.x4-kontakt .lembitu2-a-1 {
+  height: 403px;
+  left: 602px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 483px;
+}
+
+.x4-kontakt .ppetasu-maksmise-ee {
+  letter-spacing: 0;
+  line-height: 32px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x4-kontakt .kuumakse-sisaldab-la {
+  color: var(--wafeedove-gray);
+  font-weight: 400;
+  height: 238px;
+  line-height: 24px;
+  position: relative;
+  width: 744px;
+}
+
+.x4-kontakt .footer {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--manatee);
+  display: flex;
+  flex-direction: column;
+  gap: 2.27e-13px;
+  height: 255px;
+  margin-bottom: -498.03px;
+  margin-top: -2px;
+  position: relative;
+  width: 100%;
+}
+
+.x4-kontakt .background-horizontal-border-1 {
+  background-color: var(--mamba);
+  height: 213px;
+  padding: 1px 25px 0px;
+}
+
+.x4-kontakt .frame-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 233px;
+  margin-bottom: -21.00px;
+  position: relative;
+  width: 100%;
+}
+
+.x4-kontakt .container-8 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  height: 221px;
+  max-width: 1218px;
+  position: relative;
+  width: 100%;
+}
+
+.x4-kontakt .container-9 {
+  align-self: stretch;
+  height: 221px;
+  position: relative;
+  width: 100%;
+}
+
+.x4-kontakt .flex-row {
+  align-items: flex-end;
+  display: flex;
+  height: 184px;
+  left: 7px;
+  min-width: 1149px;
+  position: relative;
+  top: 14px;
+}
+
+.x4-kontakt .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  min-height: 184px;
+  width: 310px;
+}
+
+.x4-kontakt .horizontal-border-2 {
+  align-items: flex-end;
+  display: flex;
+  height: 61px;
+  justify-content: flex-end;
+  min-width: 300px;
+}
+
+.x4-kontakt .hleprlid-laulustuudio-vrus {
+  color: var(--desert-storm);
+  font-weight: 400;
+  height: 59px;
+  line-height: 32px;
+  margin-bottom: -9.5px;
+  width: 300px;
+}
+
+.x4-kontakt .lembitu-2-a-vru-linn-1 {
+  align-self: flex-end;
+  color: var(--desert-storm);
+  font-weight: 400;
+  height: 109px;
+  line-height: 20px;
+  text-decoration: underline;
+  width: 300px;
+}
+
+.x4-kontakt .aside {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin-left: 232px;
+  padding: 0px 0px 40px;
+  position: relative;
+  width: 349px;
+}
+
+.x4-kontakt .heading-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 2px 0px 14px;
+  position: relative;
+  width: 100%;
+}
+
+.x4-kontakt .horizontal-border-3 {
+  height: 34px;
+  position: relative;
+  width: 180.05px;
+}
+
+.x4-kontakt .component-3-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.x4-kontakt .text {
+  color: var(--desert-storm);
+  cursor: pointer;
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x4-kontakt .component-3-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.x4-kontakt .heading-3-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 2px 0px 19px;
+  position: relative;
+  width: 118px;
+}
+
+.x4-kontakt .horizontal-border-4 {
+  align-self: stretch;
+  height: 54px;
+  position: relative;
+  width: 100%;
+}
+
+.x4-kontakt .name {
+  color: var(--wafeewhite);
+  font-weight: 400;
+  height: 83px;
+  line-height: 20px;
+  margin-bottom: -3.00px;
+  position: relative;
+  width: 184px;
+}
+
+.x4-kontakt .background-horizontal-border-2 {
+  background-color: var(--desert-storm);
+  height: 42px;
+  padding: 11px 25px 10px;
+}
+
+.x4-kontakt .container-10 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 31px;
+  margin-bottom: -10.00px;
+  max-width: 1218px;
+  position: relative;
+  width: 1218px;
+}
+
+.x4-kontakt .container-11 {
+  align-self: stretch;
+  height: 36px;
+  margin-bottom: -5.00px;
+  max-width: 609px;
+  position: relative;
+  width: 100%;
+}
+
+.x4-kontakt .overlap-group1 {
+  height: 36px;
+  top: -2px;
+}
+
+.x4-kontakt .overlap-group {
+  height: 20px;
+  top: 0;
+}
+
+.x4-kontakt .component-3-4 {
+  align-items: flex-start;
+  display: flex;
+  left: 97px;
+  position: absolute;
+  top: 2px;
+  width: 367px;
+}
+
+.x4-kontakt .text-1 {
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.x4-kontakt .text-3 {
+  height: 18px;
+  left: 59px;
+  position: absolute;
+  top: 18px;
+  width: 3px;
+}
+
+.x4-kontakt .component-3-5 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  margin-bottom: -28.00px;
+  position: relative;
+}
+
+.x4-kontakt .horizontal-border-5 {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-color: var(--wafeebreaker-bay);
+}
+
+.x4-kontakt .item-2 {
+  align-items: flex-start;
+  flex-direction: column;
+  position: relative;
+}
+
+.x4-kontakt .text-2 {
+  color: var(--wafeedove-gray);
+  font-weight: 400;
+  line-height: 18px;
+  white-space: nowrap;
+}

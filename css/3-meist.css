@@ -1,0 +1,662 @@
+/* screen - 3-meist */
+
+.x3-meist {
+  align-items: center;
+  background-image: url(../img/1-esileht.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  gap: 10px;
+  height: 1668px;
+  justify-content: center;
+  min-width: 1440px;
+  position: relative;
+  width: 100%;
+}
+
+.x3-meist .x1920w-light {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 1668px;
+  justify-content: center;
+  overflow: scroll;
+  padding: 30px 326px;
+  position: relative;
+  width: 1440px;
+}
+
+.x3-meist .background-shadow {
+  align-items: center;
+  background-color: var(--wafeewhite);
+  box-shadow: 0px 2px 6px #6464644c;
+  display: flex;
+  flex-direction: column;
+  height: 1603px;
+  justify-content: center;
+  max-width: 1268px;
+  overflow: hidden;
+  padding: 5px 0px;
+  position: relative;
+  width: 1268px;
+}
+
+.x3-meist .header {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  height: 1352px;
+  margin-top: -5.50px;
+  position: relative;
+  width: 100%;
+}
+
+.x3-meist .background-horizontal-border {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--desert-storm);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--wafeemercury);
+  display: flex;
+  flex-direction: column;
+  height: 25.5px;
+  justify-content: center;
+  padding: 5px 25px 1px;
+  position: relative;
+  width: 100%;
+}
+
+.x3-meist .container {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 498.03px;
+  margin-bottom: -5.25px;
+  margin-top: -5.25px;
+  max-width: 1218px;
+  position: relative;
+  width: 1218px;
+}
+
+.x3-meist .list {
+  align-items: flex-start;
+  display: flex;
+  justify-content: center;
+  padding: 0px 7.11e-15px 0px 0px;
+  position: relative;
+  width: 61px;
+}
+
+.x3-meist .item-1 {
+  flex: 1;
+  flex-grow: 1;
+}
+
+.x3-meist .component-2 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.x3-meist .container-1 {
+  align-items: flex-start;
+  background-color: var(--wafeewhite);
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.x3-meist .component-1 {
+  height: 18px;
+  position: relative;
+  width: 15.44px;
+}
+
+.x3-meist .item-2 {
+  cursor: pointer;
+  height: 24px;
+  margin-left: -3.55e-15px;
+  width: 22px;
+}
+
+.x3-meist .container-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.x3-meist .horizontal-border {
+  align-items: center;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--wafeemercury);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 1px;
+  position: relative;
+  width: 100%;
+}
+
+.x3-meist .container-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 140px;
+  max-width: 1218px;
+  position: relative;
+  width: 1218px;
+}
+
+.x3-meist .container-4 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -10.00px;
+  max-width: 1193px;
+  padding: 0px 481.5px 0px 461.5px;
+  position: relative;
+  width: 100%;
+}
+
+.x3-meist .mask-group {
+  height: 150px;
+  margin-left: -25.00px;
+  margin-right: -25.00px;
+  position: relative;
+  width: 300px;
+}
+
+.x3-meist .container-5 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  height: 54px;
+  padding: 0px 25px;
+  position: relative;
+  width: 100%;
+}
+
+.x3-meist .container-6 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: -2.00px;
+  max-width: 1218px;
+  padding: 20px 0px 0px;
+  position: relative;
+  width: 1218px;
+}
+
+.x3-meist .navigation-list {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  height: 36px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.x3-meist .item {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 21px;
+  padding: 0px 0px 0px 25px;
+  position: relative;
+}
+
+.x3-meist .component {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -23.00px;
+  padding: 0px 0px 20px;
+  position: relative;
+}
+
+.x3-meist .component-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.x3-meist .itempetajad {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 21px;
+  padding: 0px 0px 0px 25px;
+  position: relative;
+  width: 92px;
+}
+
+.x3-meist .component-8 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  height: 26px;
+  margin-bottom: -5.00px;
+  padding: 0px 0px 20px;
+  position: relative;
+}
+
+.x3-meist .component-3-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -18.00px;
+  position: relative;
+  width: 100%;
+}
+
+.x3-meist .item-registreerimise-vormile {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 21px;
+  padding: 0px 0px 0px 25px;
+  position: relative;
+  width: 189px;
+}
+
+.x3-meist .text-2 {
+  color: var(--tundora);
+  cursor: pointer;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.x3-meist .container-7 {
+  flex: 0 0 auto;
+  margin-bottom: -72.00px;
+  max-width: 1218px;
+  position: relative;
+  width: 1218px;
+}
+
+.x3-meist .section {
+  align-items: flex-start;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--wafeemercury);
+  display: flex;
+  flex-direction: column;
+  height: 401px;
+  padding: 10px 0px 1px;
+  position: relative;
+  width: 100%;
+}
+
+.x3-meist .frame-3 {
+  display: inline-flex;
+  height: 390px;
+}
+
+.x3-meist .container-8 {
+  align-items: flex-start;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 25px -39px;
+  height: 390px;
+  padding: 60px 332px;
+  position: relative;
+  width: 1265px;
+}
+
+.x3-meist .ellipse-1 {
+  height: 80px;
+  object-fit: cover;
+  position: relative;
+  width: 80px;
+}
+
+.x3-meist .name {
+  color: var(--wafeedove-gray);
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: 560px;
+}
+
+.x3-meist .x-lau {
+  color: var(--wafeedove-gray);
+  font-weight: 400;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+  width: 560px;
+}
+
+.x3-meist .ellipse-1-1 {
+  height: 80px;
+  margin-bottom: -20.00px;
+  object-fit: cover;
+  position: relative;
+  width: 80px;
+}
+
+.x3-meist .container-9 {
+  align-items: center;
+  display: flex;
+  gap: 30px;
+  height: 753px;
+  justify-content: center;
+  margin-bottom: -22.50px;
+  position: relative;
+  width: 1116px;
+}
+
+.x3-meist .vru-linnas-tegutsev {
+  color: var(--wafeedove-gray);
+  flex: 1;
+  font-weight: 400;
+  height: 707px;
+  line-height: 24px;
+  position: relative;
+}
+
+.x3-meist .rectangle-1 {
+  height: 499px;
+  object-fit: cover;
+  position: relative;
+  width: 450px;
+}
+
+.x3-meist .footer {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--manatee);
+  display: flex;
+  flex-direction: column;
+  height: 254px;
+  justify-content: flex-end;
+  margin-bottom: -5.00px;
+  margin-top: -2px;
+  position: relative;
+  width: 100%;
+}
+
+.x3-meist .background-horizontal-border-1 {
+  background-color: var(--mamba);
+  height: 213px;
+  margin-top: -1.00px;
+  padding: 1px 25px 0px;
+}
+
+.x3-meist .frame-2 {
+  align-self: stretch;
+  display: flex;
+  height: 233px;
+  margin-bottom: -21.00px;
+  width: 100%;
+}
+
+.x3-meist .container-10 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  height: 221px;
+  max-width: 1218px;
+  position: relative;
+  width: 100%;
+}
+
+.x3-meist .container-11 {
+  align-self: stretch;
+  height: 221px;
+  position: relative;
+  width: 100%;
+}
+
+.x3-meist .flex-row {
+  align-items: flex-end;
+  display: flex;
+  height: 184px;
+  left: 7px;
+  min-width: 1149px;
+  position: relative;
+  top: 14px;
+}
+
+.x3-meist .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  min-height: 184px;
+  width: 310px;
+}
+
+.x3-meist .horizontal-border-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 61px;
+  justify-content: flex-end;
+  min-width: 300px;
+}
+
+.x3-meist .hleprlid-laulustuudio-vrus {
+  color: var(--desert-storm);
+  font-weight: 400;
+  height: 59px;
+  line-height: 32px;
+  margin-bottom: -9.5px;
+  width: 300px;
+}
+
+.x3-meist .lembitu-2-a-vru-linn {
+  align-self: flex-end;
+  color: var(--desert-storm);
+  font-weight: 400;
+  height: 109px;
+  line-height: 20px;
+  text-decoration: underline;
+  width: 300px;
+}
+
+.x3-meist .aside {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin-left: 232px;
+  padding: 0px 0px 40px;
+  position: relative;
+  width: 349px;
+}
+
+.x3-meist .heading-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 2px 0px 14px;
+  position: relative;
+  width: 100%;
+}
+
+.x3-meist .horizontal-border-2 {
+  height: 34px;
+  position: relative;
+  width: 180.05px;
+}
+
+.x3-meist .component-3-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.x3-meist .text {
+  color: var(--desert-storm);
+  cursor: pointer;
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x3-meist .component-3-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.x3-meist .heading-3-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 2px 0px 19px;
+  position: relative;
+  width: 118px;
+}
+
+.x3-meist .horizontal-border-3 {
+  align-self: stretch;
+  height: 54px;
+  position: relative;
+  width: 100%;
+}
+
+.x3-meist .name-1 {
+  color: var(--wafeewhite);
+  font-weight: 400;
+  height: 83px;
+  line-height: 20px;
+  margin-bottom: -3.00px;
+  position: relative;
+  width: 184px;
+}
+
+.x3-meist .background-horizontal-border-2 {
+  background-color: var(--desert-storm);
+  height: 42px;
+  padding: 11px 25px 10px;
+}
+
+.x3-meist .container-12 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -15.00px;
+  max-width: 1218px;
+  position: relative;
+  width: 1218px;
+}
+
+.x3-meist .container-13 {
+  align-self: stretch;
+  height: 36px;
+  max-width: 609px;
+  position: relative;
+  width: 100%;
+}
+
+.x3-meist .overlap-group1 {
+  height: 36px;
+  top: -2px;
+}
+
+.x3-meist .overlap-group {
+  height: 20px;
+  top: 0;
+}
+
+.x3-meist .component-3-4 {
+  align-items: flex-start;
+  display: flex;
+  left: 97px;
+  position: absolute;
+  top: 2px;
+  width: 367px;
+}
+
+.x3-meist .text-1 {
+  color: var(--wafeedove-gray);
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.x3-meist .text-4 {
+  color: var(--wafeedove-gray);
+  height: 18px;
+  left: 59px;
+  line-height: 18px;
+  position: absolute;
+  top: 18px;
+  width: 3px;
+}
+
+.x3-meist .component-3-5 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  margin-bottom: -33.00px;
+  position: relative;
+}
+
+.x3-meist .frame {
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.x3-meist .horizontal-border-4 {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-color: var(--wafeebreaker-bay);
+}
+
+.x3-meist .item-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  padding: 5px 15px 6px 0px;
+  position: relative;
+}
+
+.x3-meist .text-3 {
+  font-weight: 400;
+  white-space: nowrap;
+}

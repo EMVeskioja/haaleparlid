@@ -1,0 +1,35 @@
+/* screen - frame-13 */
+
+.frame-13 {
+  align-items: center;
+  border-radius: 6px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 8px 32px;
+  position: relative;
+}
+
+.frame-13 .frame-13-1 {
+  align-items: center;
+  background-color: #c89ebf;
+  border-radius: 6px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 8px 32px;
+}
+
+.frame-13 .title {
+  color: var(--desert-storm);
+  cursor: pointer;
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  position: relative;
+  text-decoration: underline;
+  width: 226px;
+}

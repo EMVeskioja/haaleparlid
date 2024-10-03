@@ -1,0 +1,66 @@
+:root { 
+  --desert-storm: #f8f8f8;
+  --log-cabin: #222222;
+  --mamba: #89819f80;
+  --manatee: #8a80a180;
+  --tundora: #444444;
+  --wafeealabaster: #000000;
+  --wafeealto: #000000;
+  --wafeebreaker-bay: #5f9ea0;
+  --wafeecasal: #000000;
+  --wafeedove-gray: #666666;
+  --wafeedusty-gray: #000000;
+  --wafeemercury: #eaeaea;
+  --wafeemine-shaft: #000000;
+  --wafeetundora: #000000;
+  --wafeewhite: #ffffff;
+  --wafeewhite-80: #000000;
+ 
+  --font-size-l: 22px;
+  --font-size-m: 16px;
+  --font-size-s: 14px;
+  --font-size-xl: 24px;
+  --font-size-xs: 12px;
+  --font-size-xxl: 26px;
+ 
+  --font-family-lato: "Lato", Helvetica;
+}
+.wafeelatoregular-12 {
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.wafeelatoregular-14 {
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.wafeelatoregular-16 {
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.wafeelatoregular-22 {
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.lato-normal-log-cabin-26px {
+  color: var(--log-cabin);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
